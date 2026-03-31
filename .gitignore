@@ -1,0 +1,19 @@
+# Dataset
+data/
+*.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+
+# Results
+results/
+outputs/
+*.png
+*.jpg
+*.npy
+
+# System
+.DS_Store
